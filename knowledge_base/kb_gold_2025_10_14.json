@@ -1,0 +1,12 @@
+{
+    "analyzed_date": "2025-10-14",
+    "generated_at": "2026-03-17 22:01:18",
+    "variables_fuzzy": {
+        "inflation_cpi": 324.8,
+        "fed_funds_rate": 4.1,
+        "dolar_index": 99.05,
+        "geopolitical_sentiment": 218.14,
+        "vix_index": 20.81,
+        "banks_demand": 230.3
+    }
+}
